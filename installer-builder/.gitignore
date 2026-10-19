@@ -1,0 +1,3 @@
+/payload/*.exe
+/dist/*
+!/dist/.gitkeep
