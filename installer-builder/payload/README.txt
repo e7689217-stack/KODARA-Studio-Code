@@ -1,0 +1,1 @@
+Copy the built KODARAStudioCode.exe into this folder. Build-Installer.bat reads this exact path.
